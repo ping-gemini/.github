@@ -7,8 +7,16 @@
 </div>
 
 ---
+<div align="center">
 
-## 🚀 What’s Next? *(Expand to see your tasks)*
+[![Join Discord](https://img.shields.io/badge/Discord-Join%20Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord-invite)  
+[![Visit Website](https://img.shields.io/badge/Website-Visit%20Now-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)  
+[![Subscribe Newsletter](https://img.shields.io/badge/Newsletter-Subscribe%20Now-FF4500?style=for-the-badge&logo=mailchimp&logoColor=white)](https://yournewsletterlink.com)
+
+</div>
+---
+
+## 🚀 What’s Next? 
 
 Here’s how you can make the most of your membership:
 
@@ -62,6 +70,17 @@ Here’s how you can make the most of your membership:
 ## 🌐 Follow Us & Share Your Journey
 
 Help grow the Ping community! Tag us in your work, share contributions, and follow us across platforms:
+
+<div align="center">
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_handle?style=social)](https://twitter.com/your_twitter_handle)  
+[![GitHub Stars](https://img.shields.io/github/stars/ping-gemini/being-ping?style=social)](https://github.com/ping-gemini)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://linkedin.com/in/your_profile)  
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/your_channel_id?style=social)](https://youtube.com/channel/your_channel_id)  
+[![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fyourwebsite.com)](https://yourwebsite.com)
+
+</div>
+
 
 | 👥 GitHub Followers | ⭐ GitHub Stars | 👨‍💻 Contributors | 🌍 [Website](#) |
 
