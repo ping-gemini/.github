@@ -7,8 +7,16 @@
 </div>
 
 ---
+<div align="center">
 
-## 🚀 What’s Next? *(Expand to see your tasks)*
+[![Join Discord](https://img.shields.io/badge/Discord-Join%20Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord-invite)  
+[![Visit Website](https://img.shields.io/badge/Website-Visit%20Now-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)  
+[![Subscribe Newsletter](https://img.shields.io/badge/Newsletter-Subscribe%20Now-FF4500?style=for-the-badge&logo=mailchimp&logoColor=white)](https://yournewsletterlink.com)
+
+</div>
+
+---
+## 🚀 What’s Next? 
 
 Here’s how you can make the most of your membership:
 
