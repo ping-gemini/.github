@@ -41,7 +41,7 @@ Here’s how you can make the most of your membership:
 5. 📤 Push to your fork (`git push origin feature-xyz`)
 6. 📩 Open a Pull Request
 
-📚 Read our [Contribution Guidelines](#) for more.
+📚 Read our [Contribution Guidelines](https://github.com/ping-gemini/being-ping/blob/main/Onboarding/code-of-conduct.md) for more.
 ---
 
 
