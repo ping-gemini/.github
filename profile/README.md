@@ -15,34 +15,38 @@
 </div>
 
 ---
-## 🚀 What’s Next? 
+<details>
+  <summary>🚀 What’s Next?</summary>
 
 Here’s how you can make the most of your membership:
 
 - ⌨️ **Join Being Ping repository (it's Private and Invite only)**  
   Check the Documentation created [Check Onboarding videos](https://github.com/ping-gemini/being-ping)
 
-- ✍️ **Add yourself to our team  and make the organisation profile public to boost your GitHub profile strength**  
+- ✍️ **Add yourself to our team and make the organisation profile public to boost your GitHub profile strength**  
   [Make Public Organisation profile](https://github.com/recodehive/Support)
 
-- 🧑‍🤝‍🧑 **Collaborate with peers (Only invited members can see these boards**  
+- 🧑‍🤝‍🧑 **Collaborate with peers (Only invited members can see these boards)**  
   Participate in [GitHub Projects](https://github.com/orgs/ping-gemini/projects/2), [Team Discussions](https://github.com/orgs/ping-gemini/discussions), and build together.
 
 - 📅 **Need help, ideas, or direction?**  
   Book a 1:1 chat with **Sanjay** 👉 [Schedule here](https://topmate.io/sanjaykv)
 
----
-## 🔄 Contribution Workflow
+</details>
 
-1. 🍴 Fork the repository
-2. 👯 Clone your fork
-3. 🔧 Create a feature branch (`git checkout -b feature-xyz`)
-4. 💻 Make changes and commit (`git commit -m "feat: add xyz"`)
-5. 📤 Push to your fork (`git push origin feature-xyz`)
-6. 📩 Open a Pull Request
+<details>
+  <summary>🔄 Contribution Workflow</summary>
 
-📚 Read our [Contribution Guidelines](https://github.com/ping-gemini/being-ping/blob/main/Onboarding/code-of-conduct.md) for more.
----
+  1. 🍴 Fork the repository  
+  2. 👯 Clone your fork  
+  3. 🔧 Create a feature branch (`git checkout -b feature-xyz`)  
+  4. 💻 Make changes and commit (`git commit -m "feat: add xyz"`)  
+  5. 📤 Push to your fork (`git push origin feature-xyz`)  
+  6. 📩 Open a Pull Request  
+
+  📚 Read our [Contribution Guidelines](https://github.com/ping-gemini/being-ping/blob/main/Onboarding/code-of-conduct.md) for more.
+
+</details>
 
 
 
