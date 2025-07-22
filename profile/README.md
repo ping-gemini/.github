@@ -9,9 +9,8 @@
 ---
 <div align="center">
 
-[![Join Discord](https://img.shields.io/badge/Discord-Join%20Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord-invite)  
-[![Visit Website](https://img.shields.io/badge/Website-Visit%20Now-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)  
-[![Subscribe Newsletter](https://img.shields.io/badge/Newsletter-Subscribe%20Now-FF4500?style=for-the-badge&logo=mailchimp&logoColor=white)](https://yournewsletterlink.com)
+
+[![Visit Website](https://img.shields.io/badge/Website-Visit%20Now-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](#)  
 
 </div>
 
@@ -48,24 +47,7 @@ Here’s how you can make the most of your membership:
 📚 Read our [Contribution Guidelines](#) for more.
 ---
 
-## 🧰 Useful Resources
 
-| 📘 [Contributing Guidelines](#) | 🧭 [Code of Conduct](#) | 🧑‍💼 [Member Directory](#) | 🗂️ [Project Board](#) |
-|-------------------------------|--------------------------|----------------------------|-------------------------|
-
----
-
----
-
-### 👥 Meet the Team (Core Contributors)
-
-
-| Name | Role | GitHub | Contact |
-|------|------|--------|---------|
-| Sanjay | Mentor & Maintainer | [@sanjay](https://github.com/sanjay-kv) | [📧](mailto:sanjay@recodehive.com) |
-| Akshitha | Intern | [@akshitha-chiluka](https://github.com/AKSHITHA-CHILUKA) | [📧](mailto:chiluka.akshitha05@gmail.com) |
-
----
 
 ## 🌐 Follow Us & Share Your Journey
 
