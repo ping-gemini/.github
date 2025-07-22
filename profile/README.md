@@ -10,7 +10,7 @@
 <div align="center">
 
 
-[![Visit Website](https://img.shields.io/badge/Website-Visit%20Now-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](#)  
+[![Visit Website](https://img.shields.io/badge/Website-Visit%20Now-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.pingnetwork.in/)  
 
 </div>
 
@@ -19,20 +19,17 @@
 
 Here’s how you can make the most of your membership:
 
-- ⌨️ **Highlight Ping Network on your GitHub profile**  
-  Showcase your support! Add us to your featured organizations. [Check How-To Docs](#)
+- ⌨️ **Join Being Ping repository (it's Private and Invite only)**  
+  Check the Documentation created [Check Onboarding videos](https://github.com/ping-gemini/being-ping)
 
-- 📌 **Explore open projects & start contributing**  
-  Dive into issues labeled [`good first issue`](#) and make your mark.
+- ✍️ **Add yourself to our team  and make the organisation profile public to boost your GitHub profile strength**  
+  [Make Public Organisation profile](https://github.com/recodehive/Support)
 
-- ✍️ **Add yourself to our Open Source Practice Repo**  
-  Learn GitHub workflows, submit your first PR, and introduce yourself!
-
-- 🧑‍🤝‍🧑 **Collaborate with peers**  
-  Participate in [GitHub Projects](#), [Team Discussions](#), and build together.
+- 🧑‍🤝‍🧑 **Collaborate with peers (Only invited members can see these boards**  
+  Participate in [GitHub Projects](https://github.com/orgs/ping-gemini/projects/2), [Team Discussions](https://github.com/orgs/ping-gemini/discussions), and build together.
 
 - 📅 **Need help, ideas, or direction?**  
-  Book a 1:1 chat with **Sanjay** 👉 [Schedule here](#)
+  Book a 1:1 chat with **Sanjay** 👉 [Schedule here](https://topmate.io/sanjaykv)
 
 ---
 ## 🔄 Contribution Workflow
@@ -53,5 +50,5 @@ Here’s how you can make the most of your membership:
 
 Help grow the Ping community! Tag us in your work, share contributions, and follow us across platforms:
 
-| 👥 GitHub Followers | ⭐ GitHub Stars | 👨‍💻 Contributors | 🌍 [Website](#) |
+| 👥 GitHub Followers | ⭐ GitHub Stars | 👨‍💻 Contributors | 🌍 [Website](https://www.pingnetwork.in/) |
 
